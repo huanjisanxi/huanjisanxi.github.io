@@ -23,7 +23,7 @@ My research focuses on **Software Engineering** and **Coding Agents**.
   Tongwei Deng, **Jinyu Zhu**, Yue Cao, Chenxu Wang, Yanzhen Zou, Bing Xie.  
 
 
-- **[ICRA 2026] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search.**  [[Paper]](https://doi.org/10.1109/ICRA57385.2026.11696115)
+- **[ICRA 2026] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search.**  [[Paper]](https://doi.org/10.1109/ICRA57385.2026.11696115)  
   Hongcheng Wang<sup>*</sup>, **Jinyu Zhu<sup>*</sup>**, Hao Dong. <sup>*</sup>Equal contribution. 
 
 <span class='anchor' id='educations'></span>
