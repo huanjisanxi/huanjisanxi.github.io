@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinyu Zhu"
-description              : # "Jinyu Zhu's homepage"
+description              : "" # "Jinyu Zhu's homepage"
 repository               : "huanjisanxi/huanjisanxi.github.io"
 google_scholar_stats_use_cdn : true
 
