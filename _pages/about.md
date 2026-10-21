@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. student in the School of Computer Science at Peking University, advised by Prof. [Bing Xie](https://cs.pku.edu.cn/info/1234/2079.htm).
 
-My research focuses on **Software Engineering** and **Coding Agents**.
+My current research focuses on **Software Engineering** and **Coding Agents**. During my undergraduate studies, I worked on **Embodied AI and Object Navigation**.
 
 
 <span class='anchor' id='publications'></span>
