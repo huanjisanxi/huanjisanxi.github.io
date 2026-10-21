@@ -24,8 +24,7 @@ My research focuses on **Software Engineering** and **Coding Agents**.
   [Paper coming soon]
   
 - **[ICRA 2026] User-Centric Object Navigation: A Benchmark with Integrated User Habits for Personalized Embodied Object Search.**  
-  Hongcheng Wang<sup>*</sup>, **Jinyu Zhu<sup>*</sup>**, Hao Dong.  
-  <sup>*</sup> Equal contribution.  
+  Hongcheng Wang<sup>*</sup>, **Jinyu Zhu<sup>*</sup>**, Hao Dong. <sup>*</sup>Equal contribution. 
   [[Paper]](https://doi.org/10.1109/ICRA57385.2026.11696115)
 
 <span class='anchor' id='educations'></span>
@@ -34,3 +33,7 @@ My research focuses on **Software Engineering** and **Coding Agents**.
 
 - **2026.09 – Present**, Peking University, Ph.D. Student in Computer Science.
 - **2022.09 – 2026.07**, Peking University, B.S., School of Electronics Engineering and Computer Science.
+
+# 📌 Academic Service
+
+Reviewer for ICRA 2026.
