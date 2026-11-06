@@ -19,7 +19,7 @@ My current research focuses on **Software Engineering** and **Coding Agents**. D
 
 # 📝 Publications
 
-- **[Findings of EMNLP 2026] LintEval: Benchmarking LLMs on Linter-Guided File Refactoring.**  
+- **[Findings of EMNLP 2026] LintEval: Benchmarking LLMs on Linter-Guided File Refactoring.**  [[Paper]](https://aclanthology.org/2026.findings-emnlp.157/)
   Tongwei Deng, **Jinyu Zhu**, Yue Cao, Chenxu Wang, Yanzhen Zou, Bing Xie.  
 
 
